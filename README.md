@@ -14,7 +14,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
-  <img align="right" alt="eren yeager" height="150" width="200" src="https://pa1.narvii.com/6378/879b9ae9e9bdb481fbbf89da690d79291502b7b9_hq.gif">
 </div>
   
   ##
