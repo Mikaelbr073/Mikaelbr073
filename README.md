@@ -1,8 +1,5 @@
 # Welcome to my profile👋!
 
-- 🔭 I’m currently working on chatbot to whatsapp
-- 📚 Studying computer vision
-
  <div>
   <a href="https://github.com/Mikaelbr073">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Mikaelbr073&show_icons=true&theme=Defaultl&include_all_commits=true&count_private=true"/>
